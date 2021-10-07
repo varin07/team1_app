@@ -1,0 +1,20 @@
+.add-policy-h1 {
+    text-align: center;
+}
+
+iframe 
+{
+ display: flexbox; 
+ width: 100%; 
+ height: 800px;
+ border: none; 
+ overflow-y: auto; 
+ overflow-x: hidden;
+}
+
+.add-policy-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
