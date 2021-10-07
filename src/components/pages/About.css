@@ -1,0 +1,11 @@
+.AboutMargin {
+    text-align: center;
+    margin: 35px;
+}
+
+.AboutCenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
